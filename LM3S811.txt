@@ -1,0 +1,18 @@
+Description
+The Stellaris® LM3S811 microcontroller is based on the ARM® Cortex™-M3 controller core operating at up to 50 MHz, with 64 kB flash and 8 kB SRAM. The LM3S811 also features real-time industrial connectivity, with an SSI / SPI controller, an I2C interface, and 2 UARTs. The LM3S811 microcontroller also features advanced motion control features, including 6 motion-control PWM outputs with dead-band and 1 fault protection inputs for low-latency shutdown. The microcontroller also features intelligent analog capability, including 1 analog comparators and 4 channels of highly accurate 10-bit analog-to-digital conversion - with the ability to sample at speeds of 500K samples per second. Finally, the LM3S811 microcontroller provides a 24-bit systick timer, 3 32-bit or 6 16-bit general-purpose timers, a watchdog timer, a low drop-out voltage regulator so that only one supply voltage is required, brown-out reset, power-on reset controller, and up to 32 GPIOs.
+
+Features
+32-bit ARM® Cortex™-M3 50-MHz processor core with System Timer (SysTick), integrated Nested Vectored Interrupt Controller (NVIC), Memory Protection Unit (MPU), and Thumb-2 instruction set
+
+Full-featured debug solution with debug access via JTAG and Serial Wire interfaces, and IEEE 1149.1-1990 compliant Test Access Port (TAP) controller
+
+The Stellaris® LM3S811 Evaluation Board includes the following features:
+􀂄 Stellaris® LM3S811 microcontroller
+􀂄 OLED graphics display with 96 x 16 pixel resolution
+􀂄 User-programmable pushbutton and LED
+􀂄 Reset pushbutton and power indicator LED
+􀂄 Thumbwheel potentiometer for driving an Analog-to-Digital Converter (ADC) input
+􀂄 Standard ARM® 20-pin JTAG debug connector for use as an In-Circuit Debug Interface (ICDI)
+􀂄 I/O signal break-out pads for hardware prototyping
+􀂄 UART0 accessible through a USB Virtual COM Port (VCP)
+􀂄 USB interface for all communication and power
